@@ -1,0 +1,34 @@
+{
+  "chart": {
+    "title": "Oil reserves",
+    "subtitle": "Shown are the total proven reserves of oil, in tonnes. This is oil that we know with reasonable certainty can be recovered in the future under existing economic and operating conditions. Proven reserves decrease when we extract oil, and increase as new resources are discovered or become economically viable to extract.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/oil-proved-reserves?v=1&csvType=full&useColumnShortNames=false&utm_source=chatgpt.com",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Oil proved reserves - t": {
+      "titleShort": "Oil proved reserves",
+      "titleLong": "Oil proved reserves",
+      "descriptionKey": [
+        "Estimates have been compiled using a combination of primary official sources, third-party data from the OPEC Secretariat, World Oil, Oil & Gas Journal and Chinese reserves based on official data and information in the public domain. Canadian oil sands 'under active development' are an official estimate. Venezuelan Orinoco Belt reserves are based on the OPEC Secretariat and government announcements. Reserves and R/P ratio for Canada includes Canadian oil sands. Reserves and R/P ratio for Venezuela includes the Orinoco Belt. Saudi Arabia's oil reserves include NGLs from 2017. Total proved reserves of oil are generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved oil reserves does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP's view of proved reserves by country. Reserves-to-production (R/P) ratio: If the reserves remaining at the end of any year are divided by the production in that year, the result is the length of time that those remaining reserves would last if production were to continue at that rate. Reserves include gas condensate and natural gas liquids (NGLs) as well as crude oil."
+      ],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1980-2020",
+      "type": "Numeric",
+      "conversionFactor": 1,
+      "owidVariableId": 1077637,
+      "shortName": "oil_reserves_t",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Oil proved reserves” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077637.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-11-01",
+  "activeFilters": {}
+}

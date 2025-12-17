@@ -1,0 +1,9 @@
+
+
+
+
+https://ourworldindata.org/grapher/oil-production-by-country?tab=discrete-bar&time=1972
+
+https://ourworldindata.org/grapher/oil-consumption-by-country?overlay=download-data
+
+https://ourworldindata.org/grapher/oil-proved-reserves

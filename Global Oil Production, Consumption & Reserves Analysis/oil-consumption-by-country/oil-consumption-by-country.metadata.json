@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Oil consumption",
+    "subtitle": "Measured in [terawatt-hours](#dod:watt-hours).",
+    "citation": "Energy Institute - Statistical Review of World Energy (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/oil-consumption-by-country?v=1&csvType=full&useColumnShortNames=false&utm_source=chatgpt.com",
+    "selection": [
+      "United States",
+      "Australia",
+      "United Kingdom",
+      "Canada",
+      "South Africa",
+      "Norway",
+      "China"
+    ]
+  },
+  "columns": {
+    "Oil consumption - TWh": {
+      "titleShort": "Oil consumption",
+      "titleLong": "Oil consumption",
+      "descriptionKey": [
+        "Includes inland demand plus international aviation and marine bunkers and refinery fuel and loss. Consumption of biogasoline (such as ethanol) and biodiesel are excluded while derivatives of coal and natural gas are included. Differences between the world consumption figures and world production statistics are accounted for by stock changes, consumption of non-petroleum additives and substitute fuels and unavoidable disparities in the definition, measurement or conversion of oil supply and demand data."
+      ],
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2024",
+      "type": "Numeric",
+      "owidVariableId": 1077624,
+      "shortName": "oil_consumption_twh",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Oil consumption” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077624.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-11-01",
+  "activeFilters": {}
+}
